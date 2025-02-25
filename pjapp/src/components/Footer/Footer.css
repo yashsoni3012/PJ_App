@@ -1,0 +1,11 @@
+.footer{
+    background-color: #4F894F;
+    padding: 50px;
+}
+.footerlogo img {
+    height: 100px;
+    width: 100px;
+}
+.footerlogo p{
+    text-align: justify;
+}
