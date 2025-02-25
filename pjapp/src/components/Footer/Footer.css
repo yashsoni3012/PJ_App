@@ -5,7 +5,13 @@
 .footerlogo img {
     height: 100px;
     width: 100px;
+    cursor: pointer;
 }
 .footerlogo p{
     text-align: justify;
+}
+
+.footer ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }

@@ -54,6 +54,8 @@ const Cards = () => {
                 </div>
             </div>
 
+            <div class="green-line"></div>
+
         </div>
     )
 }

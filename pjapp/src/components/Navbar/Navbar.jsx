@@ -28,7 +28,10 @@ const Navbar = () => {
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav m-auto mb-2 mb-lg-0 fs-5">
-                            
+                            <button className="btn btn-success">
+                                <Link to=""></Link>
+                                App Store
+                            </button>
                             <Link to="/">HOME</Link>
                             <Link to="treatment">TREATMENT</Link>
                             <Link to="aboutus">ABOUT US</Link>
